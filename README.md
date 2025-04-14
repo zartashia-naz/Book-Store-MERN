@@ -28,7 +28,7 @@ This project was built as a learning exercise to understand and implement the ME
 
 ## 📫 Connect
 If you have any feedback, ideas, or questions, feel free to connect:
-GitHub: (@zartashia-naz)
+GitHub: [@zartashia-naz](https://github.com/zartashia-naz)
 
 ## ❤️ Made with Love
 Made with ❤️ by **Zartashia Naz**
