@@ -18,32 +18,17 @@ This is a basic **MERN stack** (MongoDB, Express.js, React, Node.js) application
 - Update book details
 - Delete books from the list
 
-## 📁 Folder Structure
+## 💡 Project Purpose
+This project was built as a learning exercise to understand and implement the MERN stack. It helps beginners grasp:
 
-book-store/
-├── frontend/             # React frontend
-│   ├── public/           # Static files
-│   └── src/              # React components
-│       ├── components/   # Reusable components
-│       ├── pages/        # Page components
-│       ├── App.js        # Main App component
-│       └── index.js      # Entry point
-│
-├── backend/              # Express backend
-│   ├── models/           # MongoDB models
-│   ├── routes/           # API routes
-│   ├── config.js/        # Configuration 
-│   └── index.js          # Server entry point
-│
-├── .gitignore
-└── README.md
+- Full-stack app structure
+- RESTful API integration
+- React state management with API calls
+- MongoDB schema design and Mongoose modeling
 
+## 📫 Connect
+If you have any feedback, ideas, or questions, feel free to connect:
+GitHub: (@zartashia-naz)
 
-## 📦 Installation Instructions
-
-1. **Clone the Repository**
-```bash
-git clone https://github.com/zartashia-naz/Book-Store-MERN.git
-cd Book-Store-MERN
-
-2. **Install server dependencies**
+## ❤️ Made with Love
+Made with ❤️ by **Zartashia Naz**
